@@ -1,3 +1,15 @@
 body {
-    background-color: black ;
+    background-color: #000 ;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.headers {
+    font-weight: normal;
+    font-size: 50px;
+    color: #fff;
+}
+#aqua {
+    color: aquamarine;
+    font-size: 16px;
 }
